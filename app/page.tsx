@@ -80,7 +80,7 @@ export default function Home() {
               <div className="flex justify-center">
                 <div className="relative w-full h-[200px] rounded-lg overflow-hidden">
                   <Image
-                    src={https://tenor.com/view/b-eat-saber-gif-26237883}
+                    src={"https://tenor.com/view/b-eat-saber-gif-26237883"}
                     alt="Motivational GIF"
                     fill
                     className="object-cover"
